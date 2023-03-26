@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Vehicles>
+    <Car>
+        <name>MyCar1</name>
+        <FuelType>CNG</FuelType>
+        <FuelAmount>0.0</FuelAmount>
+        <GarageNumber>0</GarageNumber>
+    </Car>
+    <Motorboat>
+        <name>MyMotorboat</name>
+        <FuelType>Diesel</FuelType>
+        <FuelAmount>0.0</FuelAmount>
+    </Motorboat>
+    <Bicycle>
+        <name>MyBicycle</name>
+    </Bicycle>
+    <Scooter>
+        <name>MyScooter</name>
+    </Scooter>
+    <Car>
+        <name>MyCar1</name>
+        <FuelType>CNG</FuelType>
+        <FuelAmount>0.0</FuelAmount>
+    </Car>
+    <Motorboat>
+        <name>MyMotorboat</name>
+        <FuelType>Diesel</FuelType>
+        <FuelAmount>0.0</FuelAmount>
+    </Motorboat>
+    <Bicycle>
+        <name>MyBicycle</name>
+        <GarageNumber>3</GarageNumber>
+    </Bicycle>
+    <Scooter>
+        <name>MyScooter</name>
+    </Scooter>
+</Vehicles>
